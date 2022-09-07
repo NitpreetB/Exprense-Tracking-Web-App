@@ -1,5 +1,7 @@
 # Expense Tracking Web Application
 
+![Screenshot 2022-08-19 004823](https://user-images.githubusercontent.com/65519637/188968476-555e6ab8-fcde-4e64-b7ad-01adb70f159e.jpg)
+
 ## Prerequisites
 
 

@@ -19,7 +19,12 @@ application that would allow the user to track their ongoing daily expenses. Cre
 
 ## Run APP 
 
-In the project directory, you can run:
+
+ 1. Get a copy of this project by simply running the git clone command.
+
+> git clone [https://github.com/NitpreetB/Object-Detection-and-Pose-Tracking.git](https://github.com/NitpreetB/Exprense-Tracking-Web-App)
+
+2. In the project directory, you can run:
 
 ### `npm start`
 

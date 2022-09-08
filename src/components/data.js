@@ -3,8 +3,8 @@ exports.defaultData=[
 {
     "Username": " ",
     "Date": " " ,
-    "Transaction Name": " ",
-    "Transaction Amount": " "
+    "Name": " ",
+    "Amount": " "
 }
 
 ];

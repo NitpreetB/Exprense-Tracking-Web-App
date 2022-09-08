@@ -33,6 +33,11 @@ to Run the app in the development mode within your local browser.
 3. The webapplication should launch in your default browser application
 
 
+## Next Steps
+
+1. Host web application on public server 
+2. Further integrate user spending limit feature, so that the user is notified when they are close to their spending limit
+
 
 ## Project inspiration
 >> https://github.com/bradtraversy/vanillawebprojects

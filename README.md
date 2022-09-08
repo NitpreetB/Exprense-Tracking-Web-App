@@ -28,7 +28,9 @@ application that would allow the user to track their ongoing daily expenses. Cre
 
 ### `npm start`
 
-to Run the app in the development mode within your local browser.\
+to Run the app in the development mode within your local browser.
+
+3. The webapplication should launch in your default browser application
 
 
 

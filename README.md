@@ -1,6 +1,6 @@
 # PocketWatch
 
-![Screenshot 2022-08-19 001754](https://user-images.githubusercontent.com/65519637/188968622-aeab23af-89f3-4fd0-9dd9-20386f195b9a.jpg)
+![Screenshot 2022-09-09 144225](https://user-images.githubusercontent.com/65519637/189421769-dfdf3f10-b378-47f4-a807-c69eca754493.jpg)
 
 ![Screenshot 2022-08-19 004823](https://user-images.githubusercontent.com/65519637/188968476-555e6ab8-fcde-4e64-b7ad-01adb70f159e.jpg)
 

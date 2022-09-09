@@ -1,4 +1,4 @@
-# Expense Tracking Web Application
+# PocketWatch
 
 ![Screenshot 2022-08-19 001754](https://user-images.githubusercontent.com/65519637/188968622-aeab23af-89f3-4fd0-9dd9-20386f195b9a.jpg)
 
